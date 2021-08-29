@@ -11,3 +11,8 @@ This is the place where I opensource stuff and break things :rofl:
 <!-- BLOG-POST-LIST:START -->
 ...Maybe Later.
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+[github-readme-stats](https://github.com/xxnemberxx/github-readme-stats)*
+
